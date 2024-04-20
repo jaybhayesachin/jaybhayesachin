@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python SQL Powerbi ML**
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **PYTHON SQL **
 
 - 📫 How to reach me **sachinjaybhaye931@gmail.com**
 
