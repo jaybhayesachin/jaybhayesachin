@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaybhayesachin&label=Profile%20views&color=0e75b6&style=flat" alt="jaybhayesachin" /> </p>
 
-- 🌱 I’m currently learning **C# SQL .Net WebApi**
+- 🌱 I’m currently learning **C# SQL .NetCore React WebApi**
 
 - 💬 Ask me about **C# SQL **
 
